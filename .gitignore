@@ -1,2 +1,6 @@
-.cproject
-.project
+*.my
+*.my.exit_status
+*.my.stderr
+*.swp
+*.swo
+*.swn
